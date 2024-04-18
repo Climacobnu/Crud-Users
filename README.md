@@ -2,4 +2,4 @@
 
 
 
-<img src="https://github.com/Climacobnu/Crud-Users/1.png">
+<img src="https://github.com/Climacobnu/Crud-Users/blob/main/1.png">
